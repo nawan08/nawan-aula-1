@@ -1,0 +1,28 @@
+.header-centralizado {
+    text-align: center;
+    padding: 25px 20px 15px;
+    background-color: #f8fafc;
+    border-bottom: 2px solid #e2e8f0;
+    font-family: sans-serif;
+}
+
+.header-centralizado h1 {
+    margin: 0 0 15px 0;
+    color: #0f172a;
+}
+
+.header-centralizado nav {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.header-centralizado nav a {
+    color: #0f172a;
+    text-decoration: none;
+font-weight: 500;
+}
+
+.header-centralizado nav a:hover {
+    opacity: 0.6;
+}
